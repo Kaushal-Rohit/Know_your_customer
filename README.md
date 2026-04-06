@@ -5,8 +5,9 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?style=flat&logo=scikit-learn)](https://scikit-learn.org/)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)]()
 
-> **Author:** Rohit Kaushal Bharatbhai | KPGU Vadodara  
-> **Contact:** stud.2201201708@kpgu.ac.in
+> **Author:** Rohit Kaushal   
+> **Contact:** kaushalr2972000@gmail.com
+
 
 ---
 
