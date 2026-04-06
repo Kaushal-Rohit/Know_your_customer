@@ -386,7 +386,6 @@ See `requirements.txt` for full list. Core libraries:
 
 ## 🤝 Connect
 
-Made with ❤️ by **Rohit Kaushal Bharatbhai**  
-📧 stud.2201201708@kpgu.ac.in  
+Made with ❤️ by **Rohit Kaushal **  
+ 
 🔗 [LinkedIn](https://www.linkedin.com/in/kaushal-rohit-83911a1b6)  
-🏫 KPGU, Vadodara, Gujarat
